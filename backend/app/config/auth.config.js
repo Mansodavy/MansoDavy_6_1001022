@@ -1,3 +1,3 @@
 module.exports = {
-  secret: ['SECRETKEY']
+  secret: "piiquante-alpha-secret-key"
 };

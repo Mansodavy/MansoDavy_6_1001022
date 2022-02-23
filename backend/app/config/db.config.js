@@ -1,4 +1,3 @@
-require('dotenv').config({path: __dirname + '/.env'})
 module.exports = {
-  url: process.env.DATABASE_URL
+  url: "mongodb+srv://apiuser:yqyOqznZE8rkx6OS@cluster0.qlhac.mongodb.net/apidb?retryWrites=true&w=majority"
 };
