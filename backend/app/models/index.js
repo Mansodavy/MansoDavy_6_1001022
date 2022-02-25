@@ -10,4 +10,3 @@ db.user = require("./user.model");
 db.sauces = require("./sauces.model");
 
 module.exports = db;
-
